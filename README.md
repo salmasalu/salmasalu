@@ -6,7 +6,7 @@ Aspiring AI Engineer with hands-on experience building end-to-end AI application
 
 📍Malappuram, Kerala, India  
 📧 salmasalu667@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/ummusalma-p-t/]  
+🔗 LinkedIn: https://www.linkedin.com/in/ummusalma-p-t/
 
 
 ---
@@ -128,4 +128,4 @@ APJ Abdul Kalam Technological University
 I'm always interested in discussing AI, Machine Learning, LLMs, Computer Vision, and Software Engineering opportunities.
 
 📧 salmasalu667@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/ummusalma-p-t/]
+🔗 LinkedIn: https://www.linkedin.com/in/ummusalma-p-t/
